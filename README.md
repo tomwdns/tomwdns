@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tom @tomwdns
 
-<!--
-**tomwdns/tomwdns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linguist | PhD-Student
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests include:
+- History of the Italian language
+- Italian language textsbooks
+- Historical grammars for women and beginners
+- Terminology theory
+- Artificial Intelligence
+- Digital Humanities
+
+## Current interests
+
+- Python for the humanities
+- Research data visualization
+- AI Literacy in university contexts
+
+## Contact
+
+- Mail: [tom.weidensdorfer@tu-dresden.de](mailto:tom.weidensdorfer@tu-dresden.de)
+- ORCID: [0000-0002-2719-5421](https://orcid.org/0000-0002-2719-5421)
+- LinkedIn: [/tom.weidensdorfer](https://www.linkedin.com/in/tom-weidensdorfer/)
