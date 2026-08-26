@@ -15,6 +15,7 @@ My research interests include:
 ## Current interests
 
 - Python for the humanities
+- Code supported research workflows
 - Research data visualization
 - AI Literacy in university contexts
 
